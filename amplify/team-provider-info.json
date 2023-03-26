@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-petmonitoring-dev-151525-authRole",
+      "UnauthRoleArn": "arn:aws:iam::630679692063:role/amplify-petmonitoring-dev-151525-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::630679692063:role/amplify-petmonitoring-dev-151525-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-petmonitoring-dev-151525-deployment",
+      "UnauthRoleName": "amplify-petmonitoring-dev-151525-unauthRole",
+      "StackName": "amplify-petmonitoring-dev-151525",
+      "StackId": "arn:aws:cloudformation:us-east-1:630679692063:stack/amplify-petmonitoring-dev-151525/52d41300-c881-11ed-b40c-0e16035a060b",
+      "AmplifyAppId": "d34wbe56623qbw"
+    },
+    "categories": {
+      "auth": {
+        "petmonitoring994959ce": {}
+      }
+    }
+  }
+}

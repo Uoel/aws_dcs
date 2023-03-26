@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573893885611",
+    "project_id": "aws-dcs-flutter-sns",
+    "storage_bucket": "aws-dcs-flutter-sns.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573893885611:android:7deeabb013e6b80afc01ee",
+        "android_client_info": {
+          "package_name": "com.example.aws_dcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573893885611-qjr7msb6tij8btbk97aj4f8h82grshvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC493TQaQCqZl4Z5JFTAFxg_LaNAeF9BMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573893885611-qjr7msb6tij8btbk97aj4f8h82grshvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
