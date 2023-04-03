@@ -1,19 +1,19 @@
 {
-  "dev": {
+  "staging": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-petmonitoring-dev-151525-authRole",
-      "UnauthRoleArn": "arn:aws:iam::630679692063:role/amplify-petmonitoring-dev-151525-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::630679692063:role/amplify-petmonitoring-dev-151525-authRole",
-      "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-petmonitoring-dev-151525-deployment",
-      "UnauthRoleName": "amplify-petmonitoring-dev-151525-unauthRole",
-      "StackName": "amplify-petmonitoring-dev-151525",
-      "StackId": "arn:aws:cloudformation:us-east-1:630679692063:stack/amplify-petmonitoring-dev-151525/52d41300-c881-11ed-b40c-0e16035a060b",
-      "AmplifyAppId": "d34wbe56623qbw"
+      "AuthRoleName": "amplify-awsdcs-staging-93906-authRole",
+      "UnauthRoleArn": "arn:aws:iam::630679692063:role/amplify-awsdcs-staging-93906-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::630679692063:role/amplify-awsdcs-staging-93906-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-awsdcs-staging-93906-deployment",
+      "UnauthRoleName": "amplify-awsdcs-staging-93906-unauthRole",
+      "StackName": "amplify-awsdcs-staging-93906",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:630679692063:stack/amplify-awsdcs-staging-93906/60ca9f20-d203-11ed-bfd3-061652ab0c9c",
+      "AmplifyAppId": "dodhy74ekuad9"
     },
     "categories": {
       "auth": {
-        "petmonitoring994959ce": {}
+        "awsdcs": {}
       }
     }
   }
